@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-A student from Nanjing University, Suzhou Campus
+A undergraduate student from Nanjing University, Suzhou Campus
